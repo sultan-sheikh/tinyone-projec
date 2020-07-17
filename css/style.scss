@@ -166,7 +166,6 @@
 			li{
 				padding:10px;
 				a{
-					border-radius: 10px;
 					i{
 						height:40px;
 						width:40px;
@@ -327,6 +326,10 @@ footer{
 	padding-top:40px;
 }
 
+.feature-section h2 {
+    font-size: 30px;;
+}
+
 }
 
 
@@ -378,6 +381,10 @@ footer{
 }
 footer{
 	padding:10px 0;
+}
+
+.form-section .social {
+    bottom: 20px;
 }
 
 }
